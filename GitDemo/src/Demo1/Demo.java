@@ -6,5 +6,10 @@ public class Demo {
 		System.out.println("Git Demo");
 		
 	}
+	public void m1()
+	{
+		
+	}
+	
 
 }
